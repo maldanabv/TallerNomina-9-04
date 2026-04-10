@@ -1,0 +1,10 @@
+let Nombrecompleto = "";
+let edad = "0";
+let tipoDocumento ="";
+let Ndocument = "";
+const salario = 1;
+const clasificaciónNivelriesgo1 = "minimo";
+const clasificaciónNivelriesgo2 = "bajo";
+const clasificaciónNivelriesgo3 = "medio";
+const clasificaciónNivelriesgo4 = alto";
+const clasificaciónNivelriesgo5 = "máximo";
